@@ -1,5 +1,3 @@
-# quiz-app-final
-
 Module 2 Final Project Evaluation
 
 You must meet all of the following requirements to pass Module 2 Project
